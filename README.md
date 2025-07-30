@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yoshiki Yokoyama</h1>
-<h3 align="center">👨‍💻Backend developer from Japan</h3>
+<h2 align="center">👨‍💻Backend developer from Japan</h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yoalsfbin" alt="yoalsfbin" /></a> </p>
 
 
-<h3 align="left">📊 Profile Summary Cards:</h3>
+<h2 align="left">📊 Profile Summary Cards:</h2>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoalsfbin&theme=tokyonight" alt="profile-details" />
   <br />
@@ -16,9 +16,10 @@
   <br />
   <img align="center" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="yoalsfbin" />
 </p>
+<br />
 
 
-<h3 align="left">🔧Languages and Tools:</h3>
+<h2 align="left">🔧Languages and Tools:</h2>
 <p align="left"> 
   <h4>Programming Languages<h4>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
